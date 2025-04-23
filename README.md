@@ -5,6 +5,10 @@ Exploring something funny.
 
 欢迎[讨论、反馈](https://github.com/sunzhenkai/exploring.fun/issues).
 
+# 群组
+
+[<img src="assets/images/group-qq.jpg" width="250"/><img src="assets/images/group-telegram.png" width="250"/>](image.png)
+
 # Release Note
 
 ## 2025.4.23
