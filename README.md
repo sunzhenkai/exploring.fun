@@ -7,7 +7,9 @@ Exploring something funny.
 
 # 群组
 
-[<img src="assets/images/group-qq.jpg" width="250"/><img src="assets/images/group-telegram.png" width="250"/>](image.png)
+<img src="assets/images/group-qq.jpg" width="250"/>
+
+<img src="assets/images/group-telegram.png" width="250"/>
 
 # Release Note
 
@@ -15,4 +17,4 @@ Exploring something funny.
 
 - 新增 空间、文件夹、链接排序
 - 取消空间内文件夹分组
-- 背景图片上新，修改默认背景图片
+- 新增预设背景图片, 修改默认背景图片
